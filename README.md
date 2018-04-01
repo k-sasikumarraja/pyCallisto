@@ -22,7 +22,7 @@ At present, you can use this library by copying the source files (pyCallisto.py 
     
     Dr. K. Sasikumar Raja, 
     National Post Doctoral Fellow, 
-    Deparment of Physics, 
+    Department of Physics, 
     Indian Institute of Science Education and Research, 
     Dr. Homi Bhabha Road, Pashan, Pune-411 008, India.
 
